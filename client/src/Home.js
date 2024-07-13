@@ -26,7 +26,7 @@ const Home = () => {
       <main className="my-4">
         <div className="card">
           <div className="card-body">
-            <h2 className="card-title">Home Component</h2>
+            <h2 className="card-title">Home Component with Changed content</h2>
             <p className="card-text">
               This is the body of the Home component. You can add more content here.
             </p>
